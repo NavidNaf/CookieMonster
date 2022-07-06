@@ -2,7 +2,7 @@
 
 ![Title](Screenshot.png)
 
-Cookie Monster is an automated authentication and cookie/storage changer, to test different cookie manipulation based security flaws. The tool is written in **python** using **selenium**
+Cookie Monster is an automated authentication and cookie/storage changer, to test different cookie manipulation based security flaws. The tool is written in **python** using **selenium**.
 
 ## Library Dependencies
 
